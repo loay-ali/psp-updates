@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "file": "https://github.com/loay-ali/psp-updates/raw/main/data/update.zip",
   "hierachies": {
-    "sorting-tree.php": "inc/sorting-tree.php"
+    "sorted-tree.php": "inc/sorted-tree.php"
   }
 }
